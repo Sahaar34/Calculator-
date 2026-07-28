@@ -1,4 +1,4 @@
-# Aesthetic Calculator
+# Calculator
 
 This project is a aesthetic calculator built using HTML, CSS, and JavaScript.
 
